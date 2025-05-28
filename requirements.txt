@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core framework
 streamlit==1.28.1
 
@@ -20,3 +21,27 @@ beautifulsoup4==4.12.2
 
 # Async support
 aiohttp==3.9.0
+=======
+# Core framework
+streamlit==1.28.1
+
+# Financial data
+yfinance==0.2.25
+
+# Google Gemini API
+google-generativeai==0.3.2
+
+# Data processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Visualization
+plotly==5.17.0
+
+# Web scraping (used internally by yfinance and future scraping agents)
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Async support
+aiohttp==3.9.0
+>>>>>>> bbd2f5def6c12cf307ac26f28a0a8b112d1e2697
