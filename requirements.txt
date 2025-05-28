@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Core framework
 streamlit==1.28.1
 
@@ -21,7 +21,7 @@ beautifulsoup4==4.12.2
 
 # Async support
 aiohttp==3.9.0
-=======
+
 # Core framework
 streamlit==1.28.1
 
@@ -44,4 +44,3 @@ beautifulsoup4==4.12.2
 
 # Async support
 aiohttp==3.9.0
->>>>>>> bbd2f5def6c12cf307ac26f28a0a8b112d1e2697
